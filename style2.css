@@ -22,3 +22,14 @@
     margin: 10px;
     display:inline-block;
 }
+li {
+    display: inline;
+    margin: 15px;
+
+}
+header {
+    background:lightblue; margin:10px;
+}
+ul {
+    text-align: center;
+}
