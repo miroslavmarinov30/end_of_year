@@ -12,3 +12,27 @@ ul {
 .divnav1 {
     background: blue; margin: 10px;
 }
+.img1 {
+    width: 1000px;
+    height: auto;
+    margin: 10px;
+    display:inline-block;
+}
+.img2 {
+    width: 1000px;
+    height: auto;
+    margin: 10px;
+    display:inline-block;
+}
+.img3 {
+    width: 1000px;
+    height: auto;
+    margin: 10px;
+    display:inline-block;
+}
+.img4 {
+    width: 1000px;
+    height: auto;
+    margin: 10px;
+    display:inline-block;
+}
