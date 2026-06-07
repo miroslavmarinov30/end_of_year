@@ -13,7 +13,13 @@ ul {
     background: blue; margin: 10px;
 }
 .div1 {
-    background:lightblue; margin:10px; width: 300px; display: inline-block; border: 2px solid blue; border-radius: 10px; box-shadow: 2px 2px 5px gray;
+    background:lightblue; 
+    margin:10px; 
+    width: 300px; 
+    display: inline-block; 
+    border: 2px solid blue; 
+    border-radius: 10px; 
+    box-shadow: 2px 2px 5px gray;
 }
 .img1 {
     width: 1000px;
