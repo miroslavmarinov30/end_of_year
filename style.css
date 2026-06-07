@@ -6,6 +6,9 @@ li {
 header {
     background:lightblue; margin:10px;
 }
+ul {
+    text-align: center;
+}
 .divnav1 {
     background: blue; margin: 10px;
 }
