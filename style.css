@@ -3,6 +3,9 @@ li {
     margin: 15px;
 
 }
+header {
+    background:lightblue; margin:10px;
+}
 .divnav1 {
-    background-color: blue;
+    background: blue; margin: 10px;
 }
