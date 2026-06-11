@@ -21,6 +21,24 @@ ul {
     border-radius: 10px; 
     box-shadow: 2px 2px 5px gray;
 }
+.div2 {
+    background:lightblue; 
+    margin:10px; 
+    width: 300px; 
+    display: inline-block; 
+    border: 2px solid blue; 
+    border-radius: 10px; 
+    box-shadow: 2px 2px 5px gray;
+}
+.div3 {
+    background:lightblue; 
+    margin:10px; 
+    width: 300px; 
+    display: inline-block; 
+    border: 2px solid blue; 
+    border-radius: 10px; 
+    box-shadow: 2px 2px 5px gray;
+}
 .img1 {
     width: 150px;
     height: auto;
