@@ -9,6 +9,9 @@ header {
 ul {
     text-align: center;
 }
+section {
+    text-align: center;
+}
 .divnav1 {
     background: blue; margin: 10px;
 }
