@@ -20,6 +20,7 @@ ul {
     border: 2px solid blue; 
     border-radius: 10px; 
     box-shadow: 2px 2px 5px gray;
+    text-align: center;
 }
 .div2 {
     background:rgb(162, 189, 9); 
